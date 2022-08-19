@@ -47,6 +47,7 @@ if st.button("Predict Caption"):
 if st.button("About"):
   st.header("Kartikey Sharma")
   st.subheader("Student, Department of Computer Engineering")
+  st.subheader("https://github.com/kartikey81/Image_Captioning_Streamlit")
   
 html_temp = """
    <div class="" style="background-color:#993333;" >
