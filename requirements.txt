@@ -11,3 +11,8 @@ matplotlib
 pandas
 flasgger
 streamlit
+tensorflow-cpu
+opencv-python-headless
+nltk
+Pillow
+keras
